@@ -1,0 +1,9 @@
+nome da empresa
+//bairro da empresa
+salario
+oq vai fazer
+tipo de emprego
+
+nome 
+email
+senha
